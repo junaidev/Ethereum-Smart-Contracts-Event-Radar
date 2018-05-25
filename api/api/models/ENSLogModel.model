@@ -1,0 +1,57 @@
+
+
+{
+  "$id": "http://example.com/example.json",
+  "type": "array",
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "items": {
+    "$id": "http://example.com/example.json/items",
+    "type": "object",
+    "properties": {
+      "method": {
+        "$id": "http://example.com/example.json/items/properties/method",
+        "type": "string",
+        "title": "The Method Schema ",
+        "default": "",
+        "examples": [
+          "AuctionStarted"
+        ]
+      },
+      "utsts": {
+        "$id": "http://example.com/example.json/items/properties/utsts",
+        "type": "string",
+        "title": "The Utsts Schema ",
+        "default": "",
+        "examples": [
+          ""
+        ]
+      },
+      "value": {
+        "$id": "http://example.com/example.json/items/properties/value",
+        "type": "object",
+        "properties": {
+          "hash": {
+            "$id": "http://example.com/example.json/items/properties/value/properties/hash",
+            "type": "string",
+            "title": "The Hash Schema ",
+            "default": "",
+            "examples": [
+              "0x385b851f18b681271b9f2cf31a95e83b105c025d21517b0fd84b67cfd9609c76"
+            ]
+          },
+          "registrationDate": {
+            "$id": "http://example.com/example.json/items/properties/value/properties/registrationDate",
+            "type": "string",
+            "title": "The Registrationdate Schema ",
+            "default": "",
+            "examples": [
+              "1527600661"
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+

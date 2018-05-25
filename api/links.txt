@@ -1,0 +1,2 @@
+https://www.kompulsa.com/how-to-accept-and-parse-post-requests-in-node-js/
+https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd
