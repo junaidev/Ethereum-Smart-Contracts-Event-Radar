@@ -1,3 +1,5 @@
+![alt text](https://github.com/junaidev/Ethereum-Smart-Contracts-Event-Radar/blob/master/banner.JPG)
+
 For complete description with diagrams open ReadMe.pdf
 
 Youtube Demo Link: https://www.youtube.com/watch?v=nwjCjnsZjls&feature=youtu.be
